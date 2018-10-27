@@ -1,0 +1,67 @@
+[
+    {
+        "enunciado": "Quais os 3 maiores estados do Brasil?",
+        "alternativas": [
+            {"cod": "tocantins", "label": "Tocantins", "status": false}, 
+            {"cod": "para", "label": "Pará", "status": true}, 
+            {"cod": "riodejaneiro", "label": "Rio de Janeiro", "status": false}, 
+            {"cod": "saopaulo", "label": "São Paulo", "status": false}, 
+            {"cod": "amazonas", "label": "Amazonas", "status": true}, 
+            {"cod": "matogrosso", "label": "Mato Grosso", "status": true},  
+            {"cod": "bahia", "label": "Bahia", "status": false},  
+            {"cod": "riograndedosul", "label": "Rio Grande do Sul", "status": false}
+        ]
+    },
+    {
+        "enunciado": "Qual animal se desenvolve somente no bioma dos Pampas?",
+        "alternativas": [
+            {"cod": "bode", "label": "Bode", "status": false},  
+            {"cod": "tucano", "label": "Tucano", "status": false},  
+            {"cod": "javali", "label": "Javali", "status": false},  
+            {"cod": "jaguatirica", "label": "Jaguatirica", "status": true}
+        ]
+    },
+    {
+        "enunciado": "Quem descobriu o Brasil?",
+        "alternativas": [
+            {"cod": "colombo", "label": "Cristovão Colombo", "status": false},  
+            {"cod": "newton", "label": "Newton", "status": false},  
+            {"cod": "pedroalvares", "label": "Pedro Álvares Cabral", "status": true},   
+            {"cod": "luizgregorio", "label": "Luíz Gregório", "status": false},
+            {"cod": "indios", "label": "Índios", "status": true}
+        ]
+    },
+    {
+        "enunciado": "Em que ano se estabeleceu o Plano Real?",
+        "alternativas": [
+            {"cod": "1945", "label": "1945", "status": false},
+            {"cod": "1985", "label": "1985", "status": false},
+            {"cod": "1994", "label": "1994", "status": true},
+            {"cod": "2000", "label": "2000", "status": false},
+            {"cod": "2001", "label": "2001", "status": false}
+        ]
+    },
+    {
+        "enunciado": "Qual dos seguintes símbolos significa quilômetro?",
+        "alternativas": [
+            {"cod": "kd", "label": "KD", "status": false},
+            {"cod": "km", "label": "KM", "status": true},
+            {"cod": "kk", "label": "KK", "status": false},
+            {"cod": "kg", "label": "KG", "status": false}
+        ]
+    },
+    {
+        "enunciado": "Quais heróis NÃO aparecem no filme Vingadores: Guerra Infinita?",
+        "alternativas": [
+            {"cod": "gaviaoarqueiro", "label": "Gavião Arqueiro", "status": true},
+            {"cod": "hulk", "label": "Hulk", "status": false},
+            {"cod": "homemformiga", "label": "Homem-Formiga", "status": true},
+            {"cod": "viuvanegra", "label": "Viúva Negra", "status": false},
+            {"cod": "soldadoinvernal", "label": "Soldado Invernal", "status": false},
+            {"cod": "cisnenegro", "label": "Cisne Negro", "status": true},
+            {"cod": "panteranegra", "label": "Pantera Negra", "status": false},
+            {"cod": "maquinadeguerra", "label": "Máquina de Guerra", "status": false},
+            {"cod": "capitamarvel", "label": "Capitã Marvel", "status": true}
+        ]
+    }   
+]

@@ -1,0 +1,44 @@
+html {
+    overflow-x: hidden
+}
+
+section {
+    margin-top: 30px;
+}
+
+.card-questao .card-body .card-title:first-child::first-letter {
+    font-size: 35px
+}
+
+small,
+.card-questao .card-body span:nth-child(3),
+.card-questao .card-body .card-title:first-child::first-letter {
+    color: #d80094;
+}
+
+.resposta-certa {
+    color: #13ec13 !important
+}
+
+.btn-finalizar {
+    background-color: #d80094;
+}
+
+.fa-times {
+    color: #ff0000
+}
+
+.fa-check {
+    color: #28a745
+}
+
+.btn-warning,
+.btn-warning:hover {
+    background-color: #d80094;
+    color: #fff
+}
+.btn-warning.disabled, .btn-warning:disabled {
+    background-color: #db51af;
+    border-color: #d570b5;
+    color: #fff
+}
